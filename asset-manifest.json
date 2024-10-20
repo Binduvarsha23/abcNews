@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abcNews/static/css/main.e6c13ad2.css",
+    "main.js": "/abcNews/static/js/main.9655d3a1.js",
+    "static/js/453.b2157c12.chunk.js": "/abcNews/static/js/453.b2157c12.chunk.js",
+    "index.html": "/abcNews/index.html",
+    "main.e6c13ad2.css.map": "/abcNews/static/css/main.e6c13ad2.css.map",
+    "main.9655d3a1.js.map": "/abcNews/static/js/main.9655d3a1.js.map",
+    "453.b2157c12.chunk.js.map": "/abcNews/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9655d3a1.js"
+  ]
+}
